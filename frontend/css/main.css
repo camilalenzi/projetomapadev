@@ -1,0 +1,24 @@
+#mapid{
+    width: 500px;
+    height: 400px;
+     margin: 0 auto;
+  font-family: 'Quicksand', sans-serif;
+  text-align: right;
+}
+ body{
+  
+ margin: 0 auto;
+ padding: 20%;
+  font-family: 'Quicksand', sans-serif;
+  padding-top: inherit;
+  text-align: left;
+ }
+
+ #demo{
+
+font-family: 'Quicksand', sans-serif;
+
+	color: #4e4e4e;
+	font-size: 2.5em;
+
+ }
